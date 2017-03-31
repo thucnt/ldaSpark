@@ -1,0 +1,427 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+23 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$1$$anonfun$apply$1.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$1.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$2.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$3$$anonfun$apply$3.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$3.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$4.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$5.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$6.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$7.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$preprocess$1.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$run$1$$anonfun$apply$2.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$run$1.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$delayedInit$body.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$8$$anonfun$apply$5.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$8.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$getStemmedText$1$$anonfun$apply$4.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$getStemmedText$1.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/Params$.class
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/Params.class
+binary dependencies:
+9 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.6.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib-local_2.11/jars/spark-mllib-local_2.11-2.0.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /Users/thucnt/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+23 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$1$$anonfun$apply$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$2
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$3
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$3$$anonfun$apply$3
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$4
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$5
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$6
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$7
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$preprocess$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$run$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$$anonfun$run$1$$anonfun$apply$2
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample$delayedInit$body
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper$
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper$$anonfun$8
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper$$anonfun$8$$anonfun$apply$5
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper$$anonfun$getStemmedText$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper$$anonfun$getStemmedText$1$$anonfun$apply$4
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Params
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Params$
+used names:
+264 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> !=
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> $conforms
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> &&
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> +
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ++
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> -
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> /
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> <init>
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ==
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> >
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> AbstractFunction10
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> AnyRef
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> App
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Array
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ClassTag
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> CountVectorizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> CountVectorizerModel
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> DistributedLDAModel
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Document
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Double
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> EMLDAOptimizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> IllegalArgumentException
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Int
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> IntIsIntegral
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Iterable
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> JavaConversions
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDA
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAExample
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> LDAHelper
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Level
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> List
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Logger
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Long
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> MLVector
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Morphology
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> None
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Numeric
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> OnlineLDAOptimizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Option
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Params
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Pipeline
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Predef
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Product
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> RDD
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> RegexTokenizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Row
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ScalaRunTime
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Serializable
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> SparkConf
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> SparkContext
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> SparkSession
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Statics
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> StopWordsRemover
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> String
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> StringBuilder
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> StringContext
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> System
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Tuple2
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Tuple3
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Unit
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Vector
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> Vectors
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> WARN
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> _1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> _2
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> _3
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> _toString
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> a
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> actualCorpusSize
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> actualNumTokens
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> actualVocabSize
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> addedWoed
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> algorithm
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> anyHash
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> apache
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> append
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> apply
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> arrayClass
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> asInstanceOf
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> asScalaBuffer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> augmentString
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> avgLogLikelihood
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> builder
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> cache
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> canBuildFrom
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> checkpointDir
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> checkpointInterval
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> clustering
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> collect
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> collection
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> conf
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> config
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> corpus
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> count
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> countVectorizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> customizedStopWords
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> defaultParams
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> describeTopics
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> df
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> distLDAModel
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> docConcentration
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> document
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> documents
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> doubleHash
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> edu
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> elapsed
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> empty
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> eq
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> feature
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> features
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> filterSpecialCharacters
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> finalizeHash
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> fit
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> flatMap
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> foreach
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> fromML
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> functions
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> get
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> getLemmaText
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> getOrCreate
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> getRootLogger
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> getStopWords
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> i
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> immutable
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> implicits
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> initialrdd
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> input
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> intArrayOps
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> isEmpty
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> isInstanceOf
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> java
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> k
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> lang
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> lda
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ldaModel
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> lemma
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> length
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> lengthCompare
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> linalg
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> log4j
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> logLikelihood
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> map
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> mapPartitions
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> materializeClassTag
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> math
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> maxIterations
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> mix
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> mkString
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ml
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> mllib
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> model
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> morphology
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> nanoTime
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ne
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> newStringEncoder
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> newWord
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> nlp
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> nonEmpty
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> numActives
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> numericRDDToDoubleRDDFunctions
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> optimizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> org
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> package
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> params
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> partition
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> paths
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> pipeline
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> posTags
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> preprocess
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> preprocessElapsed
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> preprocessStart
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> println
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> process
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> qual$1
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> rdd
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> rddToDatasetHolder
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> refArrayOps
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> replaceAll
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> run
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> runtime
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> s
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> sc
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> scala
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> select
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> sentences
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> set
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setAppName
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setCheckpointDir
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setCheckpointInterval
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setDocConcentration
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setInputCol
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setK
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setLevel
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setMaster
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setMaxIterations
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setMiniBatchFraction
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setOptimizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setOutputCol
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setStages
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setStopWords
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setTopicConcentration
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> setVocabSize
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> simple
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> spark
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> sparkContext
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> split
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> sql
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stages
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stanford
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> startTime
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stem
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stop
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stopWordText
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stopWordsRemover
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stopwordFile
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> string
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> stripMargin
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> sum
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> swap
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> tags
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> term
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> termWeights
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> terms
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> textFile
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toDF
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toDouble
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toInt
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toList
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toLong
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toLowerCase
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toMap
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> toString
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> tokenizer
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> topic
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> topicConcentration
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> topicIndices
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> topics
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> transform
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> typedProductIterator
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> unapplySeq
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> unary_!
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> unchecked
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> unpersist
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> value
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> vocabArray
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> vocabSize
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> vocabulary
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> weight
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> wholeTextFiles
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> words
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> wrapDoubleArray
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$10
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$11
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$12
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$13
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$14
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$15
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$16
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$7
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$8
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> x$9
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> zip
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> zipWithIndex
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> ||
+product stamps:
+23 items
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$1$$anonfun$apply$1.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$1.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$2.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$3$$anonfun$apply$3.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$3.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$4.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$5.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$6.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$7.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$preprocess$1.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$run$1$$anonfun$apply$2.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$$anonfun$run$1.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample$delayedInit$body.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAExample.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$8$$anonfun$apply$5.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$8.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$getStemmedText$1$$anonfun$apply$4.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$$anonfun$getStemmedText$1.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper$.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/LDAHelper.class -> lastModified(1483138652000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/Params$.class -> lastModified(1483138653000)
+/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/Params.class -> lastModified(1483138652000)
+source stamps:
+1 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> hash(75277ed17bd3aad8eaf1bb28a9a50f2dd5fe8c3c)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1406753776000)
+/Users/thucnt/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.6.0.jar -> lastModified(1453365956000)
+/Users/thucnt/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar -> lastModified(1468969882000)
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib-local_2.11/jars/spark-mllib-local_2.11-2.0.0.jar -> lastModified(1468969056000)
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.0.jar -> lastModified(1468970192000)
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> lastModified(1468970091000)
+/Users/thucnt/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457105192000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_20.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/thucnt/.ivy2/cache/edu.stanford.nlp/stanford-corenlp/jars/stanford-corenlp-3.6.0.jar -> edu.stanford.nlp.simple.Document
+/Users/thucnt/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Category
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.0.0.jar -> org.apache.spark.sql.Row
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkContext
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib-local_2.11/jars/spark-mllib-local_2.11-2.0.0.jar -> org.apache.spark.ml.linalg.Vector
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-2.0.0.jar -> org.apache.spark.ml.Pipeline
+/Users/thucnt/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.0.0.jar -> org.apache.spark.sql.functions$
+/Users/thucnt/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.runtime.AbstractFunction10
+internal apis:
+1 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdXNUDAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAP3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHjzXPJ0AAZub3RpZnlzcQB+AAwLGeyFdAAEd2FpdHNxAH4ADO2MACh0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADABwbFR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMYRMZbHQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM1jb/hXQAEnRvcGljQ29uY2VudHJhdGlvbnNxAH4ADM3zC9R0AAxwcm9kdWN0QXJpdHlzcQB+AAxDZgZAdAAGZXF1YWxzc3EAfgAMH30k33QADmNvcHkkZGVmYXVsdCQ5c3EAfgAMbW38fnQADGFzSW5zdGFuY2VPZnNxAH4ADIyIk2F0AA5leGVjdXRpb25TdGFydHNxAH4ADJMjTld0AANydW5zcQB+AAxQIB10dAAMc3luY2hyb25pemVkc3EAfgAMXHxi+HQAAnNjc3EAfgAMiIBHb3QAF2ZpbHRlclNwZWNpYWxDaGFyYWN0ZXJzc3EAfgAMbJ6PKXQADSRpc0luc3RhbmNlT2ZzcQB+AAyvpptTdAAOY29weSRkZWZhdWx0JDhzcQB+AAzegIb/dAAMc3RvcHdvcmRGaWxlc3EAfgAMSmifdnQADW1heEl0ZXJhdGlvbnNzcQB+AAzkI1qwdAAGUGFyYW1zc3EAfgAM/eu4SXQACGNhbkVxdWFsc3EAfgAMXm69dHQAA2xkYXNxAH4ADJMBHS50AA5jb3B5JGRlZmF1bHQkNHNxAH4ADAMJtmp0AARtYWluc3EAfgAMdFGk83QADXByb2R1Y3RQcmVmaXhzcQB+AAzB8x6OdAAJTERBSGVscGVyc3EAfgAMZAqCPXQACW5vdGlmeUFsbHNxAH4ADEZNpIJ0AARjb25mc3EAfgAMcfYU4nQADmdldFN0ZW1tZWRUZXh0c3EAfgAMgy0Cu3QADGlzSW5zdGFuY2VPZnNxAH4ADI8glWp0AA1kZWZhdWx0UGFyYW1zc3EAfgAM9VHlR3QACnByZXByb2Nlc3NzcQB+AAyCZM+OdAAGPGluaXQ+c3EAfgAMU5CAM3QAEmNoZWNrcG9pbnRJbnRlcnZhbHNxAH4ADGfhV7F0AAlhbGdvcml0aG1zcQB+AAyewNVDdAAFc3BhcmtzcQB+AAwU/nokdAACPT1zcQB+AAzhCeLfdAAFY2xvbmVzcQB+AAw+7rl7dAAOY29weSRkZWZhdWx0JDdzcQB+AAz1s5+SdAAPY29weSRkZWZhdWx0JDEwc3EAfgAMZT6XHnQADGdldExlbW1hVGV4dHNxAH4ADMiqiuR0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADCSijPZ0AARjb3B5c3EAfgAM7IkSBnQACXZvY2FiU2l6ZXNxAH4ADLz+u3F0AAh0b1N0cmluZ3NxAH4ADGpeFut0AARhcmdzc3EAfgAMAQO0RnQAAiE9c3EAfgAMVL5v63QACGdldENsYXNzc3EAfgAM3Pygh3QADWNoZWNrcG9pbnREaXJzcQB+AAwnYaE5dAAOY29weSRkZWZhdWx0JDFzcQB+AAzETh0SdAAOY29weSRkZWZhdWx0JDZzcQB+AAwLvQZPdAACbmVzcQB+AAw7AHlwdAABa3NxAH4ADCps3fx0AAVpbnB1dHNxAH4ADHocs9h0AAJlcXNxAH4ADBRf1H90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyQDf0gdAAKTERBRXhhbXBsZXNxAH4ADMWA47x0AAtkZWxheWVkSW5pdHNxAH4ADEc33D50AAIjI3NxAH4ADAYkIxV0AAhmaW5hbGl6ZXNxAH4ADAaOQnl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADEbbiaR0AAhoYXNoQ29kZXNxAH4ADMih08F0ABBkb2NDb25jZW50cmF0aW9uc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABHNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AlXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgA1dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AKwBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJVMAAlpbmhlcml0ZWRxAH4AlUwAB3BhcmVudHNxAH4AlXhxAH4As3NxAH4ArAF1cQB+AJAAAAAAcHNxAH4ArAF1cQB+AJAAAAAAcHNxAH4ArAF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALJ0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ALJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnh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
+external apis:
+0 items
+source infos:
+1 items
+/Users/thucnt/Downloads/spark-LDA-example-master/src/main/scala/LDAExample.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWVHvbDx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy90aHVjbnQvRG93bmxvYWRzL3NwYXJrLUxEQS1leGFtcGxlLW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWVHzug91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy90aHVjbnQvRG93bmxvYWRzL3NwYXJrLUxEQS1leGFtcGxlLW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

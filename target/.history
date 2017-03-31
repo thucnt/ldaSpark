@@ -1,0 +1,14 @@
+netbeans
+clean
+compile
+run
+netbeans
+run
+clean
+compile
+run
+updateClassifiers
+run
+netbeans
+exit
+netbeans

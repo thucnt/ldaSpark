@@ -1,0 +1,21 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/stopWords.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/stopWords.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/2000010.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/2000010.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/2city10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/2city10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/2city11.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/2city11.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/7gabl10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/7gabl10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/80day10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/80day10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/abbott-flatland-361.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/abbott-flatland-361.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/aeneid.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/aeneid.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/aesop11.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/aesop11.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/aesopa10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/aesopa10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alad10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alad10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alcott-flower-619.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alcott-flower-619.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alcott-little-261.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alcott-little-261.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alexb10.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alexb10.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alger-cast-544.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alger-cast-544.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alger-ragged-545.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alger-ragged-545.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alger-struggling-546.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alger-struggling-546.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alice.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alice.txt)[0m
+[0m[[0mdebug[0m] [0m	(/Users/thucnt/Downloads/spark-LDA-example-master/src/main/resources/docs/alice11.txt,/Users/thucnt/Downloads/spark-LDA-example-master/target/scala-2.11/classes/docs/alice11.txt)[0m
